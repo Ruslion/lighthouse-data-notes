@@ -6,4 +6,4 @@ some other update
 
 ## Summary 
 
-This repository contains all of the notes taken by Ruslan for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Ruslan](https://github.com/Ruslion) for the Lighthouse Labs Data Science Bootcamp.
