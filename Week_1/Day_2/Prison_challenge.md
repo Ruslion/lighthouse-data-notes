@@ -1,5 +1,4 @@
 ```python
-import collections
 prison =  [1, 1, 0, 0, 0, 1, 0]
 total_saved=0
 while prison: #Loop will continue until there is an item in it.
